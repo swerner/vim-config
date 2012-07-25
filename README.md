@@ -7,9 +7,8 @@
     git submodule update --init
     ln -s ~/.vim/vimrc ~/.vimrc
     
-    Additional instructions for installing tmux-config related items here:
-    https://github.com/SideTour/tmux-config/blob/master/README.md
-    The submodule is already installed. Just add the symlink and bash profile line.
+Additional instructions for installing tmux-config related items here: https://github.com/SideTour/tmux-config/blob/master/README.md
+The submodule is already installed. Just add the symlink and bash profile line.
 
 # Updating
 
