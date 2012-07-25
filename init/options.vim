@@ -4,6 +4,7 @@ set guioptions-=e               " Use text tab bar, not GUI
 set guioptions-=rL              " Remove scrollbars
 set visualbell                  " Suppress audio/visual error bell
 set notimeout                   " No command timeout
+set ttimeout ttimeoutlen=100    " But timeout on terminal escape codes, like arrow keys
 set showcmd                     " Show typed command prefixes while waiting for operator
 set mouse=a                     " Use mouse support in XTerm/iTerm.
 
