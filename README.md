@@ -6,6 +6,13 @@
     cd ~/.vim
     git submodule update --init
     ln -s ~/.vim/vimrc ~/.vimrc
+
+## Command-T installation
+
+    cd ~/.vim/bundle/command-t/ruby/command-t
+    rvm use system (if rvm is already installed)
+    ruby extconf.rb
+    make
     
 ## tmux.conf Installation
 If you have installed this repo as a Vim plugin:
