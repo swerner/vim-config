@@ -1,4 +1,4 @@
-[submodule "bundle/vim-vividchalk"]
+[ubmodule "bundle/vim-vividchalk"]
 	path = bundle/vim-vividchalk
 	url = git://github.com/tpope/vim-vividchalk.git
 	ignore = dirty
@@ -114,3 +114,15 @@
 [submodule "bundle/tmux-config"]
 	path = bundle/tmux-config
 	url = git://github.com/SideTour/tmux-config.git
+[submodule "bundle/vim-jsx"]
+  path = bundle/vim-jsx
+  url = git@github.com:mxw/vim-jsx.git
+[submodule "bundle/vim-bracketed-paste"]
+  path = bundle/vim-bracketed-paste
+  url = git@github.com:ConradIrwin/vim-bracketed-paste.git
+[submodule "bundle/vim-togglecursor"]
+  path = bundle/vim-togglecursor
+  url = git@github.com:jszakmeister/vim-togglecursor.git
+[submodule "bundle/vim-vividchalk"]
+  path = bundle/vim-vividchalk
+  url = git@github.com:tpope/vim-vividchalk.git
